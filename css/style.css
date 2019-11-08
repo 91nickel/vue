@@ -1,0 +1,13 @@
+#container-for-component-1 .component-element,
+#container-for-component-2 .component-element {
+  background-color: grey;
+  margin: 10px auto;
+  padding: 1%;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: grey;
+  width: 30%;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
